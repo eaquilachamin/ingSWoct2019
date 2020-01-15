@@ -100,7 +100,7 @@ public class MetodoPasajero {
     
     public void EliminarPasajero(){
     
-        //FALTA
+ 
     }
     
 }
