@@ -29,10 +29,9 @@ public class MetodoBoleto {
     }
     
     //guardar archivo txt
-    public void guardarArchivoBoleto(Pasajero pasajero){
-        
-        //FALTA
-        
+    public void guardarArchivoBoleto(Boleto unBoleto)
+    {
+       
     }
 
     public void BuscarBoleto(Usuario unUsuario){

@@ -89,17 +89,7 @@ public class MetodoUsuario {
         return v1;
     }
     
-      public void EditarRutas() {
-           
-        //FALTA
-    }
-    
-    
-    public void EliminarRutas() {
-           
-        //FALTA
-    }
-  
+
 }
 
 
